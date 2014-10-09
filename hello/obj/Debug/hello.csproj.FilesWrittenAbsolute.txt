@@ -1,0 +1,12 @@
+/Volumes/shared/lucas/Google Drive/KTH/distsys/mono/hello/hello/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/shared/lucas/Google Drive/KTH/distsys/mono/hello/hello/bin/hello.dll.mdb
+/Volumes/shared/lucas/Google Drive/KTH/distsys/mono/hello/hello/bin/hello.dll
+/Volumes/shared/lucas/Google Drive/KTH/distsys/mono/hello/hello/obj/Debug/hello.dll
+/Volumes/shared/lucas/Google Drive/KTH/distsys/mono/hello/hello/obj/Debug/hello.dll.mdb
+/Volumes/shared/lucas/Google Drive/KTH/distsys/mono/hello/hello/bin/Microsoft.Web.Infrastructure.dll
+/Volumes/shared/lucas/Google Drive/KTH/distsys/mono/hello/hello/bin/System.Web.Razor.dll
+/Volumes/shared/lucas/Google Drive/KTH/distsys/mono/hello/hello/bin/System.Web.Helpers.dll
+/Volumes/shared/lucas/Google Drive/KTH/distsys/mono/hello/hello/bin/System.Web.WebPages.dll
+/Volumes/shared/lucas/Google Drive/KTH/distsys/mono/hello/hello/bin/System.Web.WebPages.Deployment.dll
+/Volumes/shared/lucas/Google Drive/KTH/distsys/mono/hello/hello/bin/System.Web.WebPages.Razor.dll
+/Volumes/shared/lucas/Google Drive/KTH/distsys/mono/hello/hello/bin/System.Web.Mvc.dll
